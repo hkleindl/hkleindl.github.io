@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Growing Pains"
-date:   2017-09-19 22:28:57 +0000
+date:   2017-09-19 18:28:58 -0400
 ---
 
 
-When I first started learning Ruby, I was already fairly comfortable with Javascript. Many of the fundamental programming concepts (e.g., loops, conditional statements, data types) had already been introduced to me,  so it was just a matter of learning how to implement those concepts using Ruby syntax. 
+When I first started learning Ruby, I was already fairly comfortable with Javascript. Many of the fundamental programming concepts (e.g., loops, conditional statements, data types) had already been introduced to me, so it was just a matter of learning how to implement those concepts using Ruby syntax. 
 
 
 One of the first things that struck me about Ruby as opposed to Javascript, was the lack of semicolons everywhere. Making sure I didn't forget a semicolon in Javascript was so ingrained into my mind that I kept feeling like I was breaking the law with Ruby. As I got more familiar with Ruby, I began to appreciate its design. Its friendly syntax allowed me to pay less attention to things like semicolons and brackets, and focus more on the functionality of my code.
