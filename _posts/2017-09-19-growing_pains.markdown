@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Growing Pains"
-date:   2017-09-19 18:28:58 -0400
+title:      "Growing Pains"
+date:       2017-09-19 18:28:58 -0400
+permalink:  growing_pains
 ---
 
 
