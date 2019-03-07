@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails with Javascript"
-date:       2019-03-07 18:23:01 +0000
+date:       2019-03-07 13:23:02 -0500
 permalink:  rails_with_javascript
 ---
 
